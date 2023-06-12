@@ -2,6 +2,8 @@
 
 This project is a collaboration between Segment Anything and YOLOv8 algorithms, focusing on object segmentation. The goal of the project is to automatically identify and segment objects in images, providing region-specific highlights.
 
+![image](https://github.com/SelimSavas/segment-anything-and-yolov8/assets/48186387/bfe8f1ca-6fb8-4fab-93bd-c3d6fd182408)
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jCgiaBe1ony_uXr-tscMsQStrD6-jfMr#scrollTo=LWfVExQJTK5w)
 
