@@ -22,11 +22,11 @@ To run this project locally, please follow the steps below:
 
 3. Run the project:
 
-Images Segmentation Colab: SAMandYOLOv8.ipynb 
+To perform image segmentation, you can use the provided Colab notebook: [SAMandYOLOv8.ipynb](https://github.com/SelimSavas/segment-anything-and-yolov8/SAMandYOLOv8.ipynb).
 
-Video Segmentation Colab: SAMandYOLOv8video.ipynb
+For video segmentation, you can utilize the Colab notebook: [SAMandYOLOv8video.ipynb](https://github.com/SelimSavas/segment-anything-and-yolov8/SAMandYOLOv8video.ipynb).
 
-Video segmentation in your own environment:
+If you prefer to run the video segmentation on your own local environment, execute the following command:
 ```
 !python SAMandYOLOv8video.py
 ```
