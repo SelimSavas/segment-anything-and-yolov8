@@ -2,7 +2,41 @@
 
 This project utilizes the combination of Segment Anything and YOLOV8 algorithms for airplane segmentation. It automatically identifies and segments airplanes in images, highlighting them regionally. This helps in monitoring the airspace and analyzing the presence of airplanes in a given scene.
 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jCgiaBe1ony_uXr-tscMsQStrD6-jfMr#scrollTo=LWfVExQJTK5w)
+
+## Installation
+To run this project locally, please follow the steps below:
+
+1. Clone this repository:
+
+```
+!git clone https://github.com/SelimSavas/segment-anything-and-yolov8.git
+```
+
+2. Install the required dependencies (Do this if you are using colab. If you are working in your external environment, pay special attention to the installations required):
+
+```
+!pip install -r requirements.txt
+```
+
+3. Run the project:
+
+3.1. Ipynb for colab employees: 
+
+**Images Segmentation:** SAMandYOLOv8.ipynb 
+
+**Video Segmentation:** SAMandYOLOv8video.ipynb
+
+3.2. Py for your environment
+
+```
+!python SAMandYOLOv8video.py
+```
+
+## Results
+
+Here are some example results from the project:
 
 **Image Segmentation**
 
@@ -15,15 +49,22 @@ https://user-images.githubusercontent.com/48186387/234838019-724f8e8f-8cb6-432d-
 
 
 ## Contributing
+
 Contributions to this project are always welcome. If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
+
 ## License
-This project is licensed under the ![Apache Licene](https://github.com/SelimSavas/segment-anything-and-yolov8/blob/main/LICENSE). See the LICENSE file for more information.
+
+This project is licensed under the [Apache Licene](https://github.com/SelimSavas/segment-anything-and-yolov8/blob/main/LICENSE). See the LICENSE file for more information.
+
 
 ## Acknowledgements
-We would like to express our gratitude to the creators of ![Segment Anything](https://github.com/facebookresearch/segment-anything) and ![YOLOV8](https://github.com/ultralytics/ultralytics) for their invaluable contributions to the field of computer vision and object segmentation.
+
+We would like to express our gratitude to the creators of [Segment Anything](https://github.com/facebookresearch/segment-anything) and [YOLOV8](https://github.com/ultralytics/ultralytics) for their invaluable contributions to the field of computer vision and object segmentation.
+
 
 ## Contact
-For any questions or inquiries, please contact [16savasselim@gmail.com]
+
+For any questions or inquiries, please contact **16savasselim@gmail.com**
 
 Feel free to explore and use this project for your own applications. Happy segmenting!
