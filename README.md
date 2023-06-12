@@ -1,6 +1,6 @@
 # Segment Anything and YoloV8 Collaboration
 
-This project utilizes the combination of Segment Anything and YOLOV8 algorithms for airplane segmentation. It automatically identifies and segments airplanes in images, highlighting them regionally. This helps in monitoring the airspace and analyzing the presence of airplanes in a given scene.
+This project is a collaboration between Segment Anything and YOLOv8 algorithms, focusing on object segmentation. The goal of the project is to automatically identify and segment objects in images, providing region-specific highlights.
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jCgiaBe1ony_uXr-tscMsQStrD6-jfMr#scrollTo=LWfVExQJTK5w)
@@ -22,14 +22,11 @@ To run this project locally, please follow the steps below:
 
 3. Run the project:
 
-3.1. Ipynb for colab employees: 
+Images Segmentation Colab: SAMandYOLOv8.ipynb 
 
-**Images Segmentation:** SAMandYOLOv8.ipynb 
+Video Segmentation Colab: SAMandYOLOv8video.ipynb
 
-**Video Segmentation:** SAMandYOLOv8video.ipynb
-
-3.2. Py for your environment
-
+Video segmentation in your own environment:
 ```
 !python SAMandYOLOv8video.py
 ```
