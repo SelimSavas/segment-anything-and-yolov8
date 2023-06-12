@@ -65,3 +65,6 @@ We would like to express our gratitude to the creators of [Segment Anything](htt
 For any questions or inquiries, please contact **16savasselim@gmail.com**
 
 Feel free to explore and use this project for your own applications. Happy segmenting!
+
+You can throw a **star** to support.
+
