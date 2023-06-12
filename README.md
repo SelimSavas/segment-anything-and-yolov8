@@ -18,10 +18,10 @@ https://user-images.githubusercontent.com/48186387/234838019-724f8e8f-8cb6-432d-
 Contributions to this project are always welcome. If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the ![Apache Licene](https://github.com/SelimSavas/segment-anything-and-yolov8/blob/main/LICENSE). See the LICENSE file for more information.
 
 ## Acknowledgements
-We would like to express our gratitude to the creators of Segment Anything and YOLOV8 for their invaluable contributions to the field of computer vision and object segmentation.
+We would like to express our gratitude to the creators of ![Segment Anything](https://github.com/facebookresearch/segment-anything) and ![YOLOV8](https://github.com/ultralytics/ultralytics) for their invaluable contributions to the field of computer vision and object segmentation.
 
 ## Contact
 For any questions or inquiries, please contact [16savasselim@gmail.com]
